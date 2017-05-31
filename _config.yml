@@ -23,7 +23,7 @@ description: The projects and musings of our 10 summer 2017 REU students in CSAF
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: "blog"
+  Blog: "_posts/"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -43,8 +43,8 @@ title-img: "img/biglogo.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
+  name: Sam Tyner
+  email: "sctyner@iastate.edu"
 #  facebook: yourname  # eg. daattali
   github: csafe-isu    # eg. daattali
 #  twitter: yourname   # eg. daattali
