@@ -23,7 +23,7 @@ description: The projects and musings of our 10 summer 2017 REU students in CSAF
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: "_posts/"
+  Blog: ""
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -55,7 +55,7 @@ author:
 #  stackoverflow: yourlink  # eg. "3943160/daattali"
 #  snapchat: yourname  # eg. daattali
 #  instagram: yourname # eg. daattali
-  youtube: yourlink   # eg. user/daattali or channel/daattali
+#  youtube: yourlink   # eg. user/daattali or channel/daattali
 #  spotify: yourname   # eg. daattali
   telephone: +15152945634   # eg. +14159998888
 
@@ -83,6 +83,7 @@ share-links-active:
 #  facebook: true
 #  google: false
 #  linkedin: true
+  github: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
