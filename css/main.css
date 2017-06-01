@@ -362,8 +362,8 @@ footer .theme-by {
   -webkit-box-shadow: 1px 1px 3px #000;
   -moz-box-shadow: 1px 1px 3px #000;
 }
-.intro-header.big-img .post-heading .post-meta {
-  color: #EEE;
+.intro-header.big-img .post-heading .post-meta .post-preview {
+  color: #404040;
 }
 .intro-header.big-img .img-desc {
   background: rgba(30, 30, 30, 0.6);
