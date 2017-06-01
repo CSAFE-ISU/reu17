@@ -17,6 +17,12 @@ css: "/css/index.css"
   </p>
   <br/>
   
+  <div class="list-filters">
+  <a href="/" class="list-filter filter-selected">All posts</a>
+  <a href="/assignments" class="list-filter">Assignments</a>
+  <a href="/reflections" class="list-filter">Reflections</a>
+  </div>
+  
   <div class="posts-list">
   {% for post in paginator.posts %}
   <article>
