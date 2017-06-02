@@ -5,9 +5,9 @@ css: "/css/index.css"
 ---
 
 <div class="list-filters">
-  <a href="/" class="list-filter filter-selected">All posts</a>
-  <a href="/assignments" class="list-filter">Assignments</a>
-  <a href="/reflections" class="list-filter">Reflections</a>
+  <a href="/reu17" class="list-filter filter-selected">All posts</a>
+  <a href="/reu17/assignments" class="list-filter">Assignments</a>
+  <a href="/reu17/reflections" class="list-filter">Reflections</a>
 </div>
 
 <div class="posts-list">
