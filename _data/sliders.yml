@@ -1,0 +1,20 @@
+- selector: scavengerhunt
+  captions: true
+  images:
+    - src: /img/sh/ish/Bird_is_the_word.jpeg
+      alt: IMSOHUNGRY with the swans
+    - data-src: /img/sh/ish/Bowling_for_Clues.jpeg
+      alt: IMSOHUNGRY at the MU Bowling alley
+    - data-src: /img/sh/ish/Farmhouse_Aesthetic.jpeg
+      alt: IMSOHUNGRY's American Gothic at the historical farm house
+  settings:
+    height: 400
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
