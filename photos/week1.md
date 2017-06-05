@@ -24,12 +24,14 @@ There were three teams:
 <div><div class="image"><img src="../img/sh/ish/Mystery_Art_12.jpeg" alt="Team IMSOHUNGRY by some campus art"></div></div>
 </div>
 
-<script>
-$('.fade').slick({
+<script type="text/javascript">
+ $(document).ready(function(){
+  $('.fade').slick({
   dots: true,
   infinite: true,
   speed: 500,
   fade: true,
   cssEase: 'linear'
+  });
 });
 </script>
