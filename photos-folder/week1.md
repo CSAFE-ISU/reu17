@@ -22,3 +22,5 @@ There were three teams:
 <div>![Team IMSOHUNGRY by the farmhouse](../img/sh/ish/Farmhouse_Aesthetic.jpeg) </div>
 <div>![Team IMSOHUNGRY by some campus art](../img/sh/ish/Mystery_Art_12.jpeg)	</div>
 </div>
+
+$('.single-item').slick();
