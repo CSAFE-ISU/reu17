@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Does this surprise you?"
-subtitle: "Delete this whole line if no subtitle"
-author: "Firstname Lastname"
+title: "Assignment Week 1 - Does this surprise you?"
+subtitle: "Firstname Lastname"
 topic: "week1"
 root: ../../../
 tags: [forensics, statistics, assignments]
