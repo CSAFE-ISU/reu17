@@ -6,5 +6,5 @@ css: "/css/index.css"
 
 Photos are indexed by week!
 
-- [Week 1 - May 31-June 5](photos-folder/week1)
+- [Week 1 - May 31-June 5](../photos-folder/week1)
 
