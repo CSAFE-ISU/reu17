@@ -23,6 +23,7 @@ There were three teams:
   viewer.add('/sh/ish/Bird_is_the_word.jpeg');
   viewer.add('/sh/ish/Bowling_for_Clues.jpeg');
   viewer.add('/sh/ish/Farmhouse_Aesthetic.jpeg');
+  viewer.add('/sh/ish/Farmhouse_Aesthetic.jpeg');
 </script>
 <a href="javascript:void(viewer.show(0))">Slideshow</a>
 
@@ -33,16 +34,3 @@ There were three teams:
 <div><div class="image"><img src="sh/ish/Farmhouse_Aesthetic.jpeg" alt="Team IMSOHUNGRY by the farmhouse"></div></div>
 <div><div class="image"><img src="sh/ish/Mystery_Art_12.jpeg" alt="Team IMSOHUNGRY by some campus art"></div></div>
 </div>
-
-<script type="text/javascript">
- $(document).ready(function(){
-  $('.fade').slick({
-  dots: true,
-  infinite: true,
-  speed: 500,
-  fade: true,
-  cssEase: 'linear'
-  });
-});
-</script>
---> 
