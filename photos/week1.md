@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "CSAFE @ ISU REU"
 subtitle: "Photos: Week 1"
 css: "../css/index.css"
