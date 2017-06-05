@@ -16,7 +16,7 @@ There were three teams:
 3. Team WeJustHadLunch
 
 
-<div class="slider single-item">
+<div class="slider fade">
 					
 <div><div class="image"><img src="../img/sh/ish/Bird_is_the_word.jpeg" alt="Team IMSOHUNGRY at Lake Laverne"></div></div>	
 <div><div class="image"><img src="../img/sh/ish/Bowling_for_Clues.jpeg" alt="Team IMSOHUNGRY outside the MU bowling alley"></div></div>	
