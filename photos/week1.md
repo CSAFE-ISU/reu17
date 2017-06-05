@@ -18,10 +18,10 @@ There were three teams:
 
 <div class="slider fade">
 					
-<div><div class="image"><img src="../img/sh/ish/Bird_is_the_word.jpeg" alt="Team IMSOHUNGRY at Lake Laverne"></div></div>	
-<div><div class="image"><img src="../img/sh/ish/Bowling_for_Clues.jpeg" alt="Team IMSOHUNGRY outside the MU bowling alley"></div></div>	
-<div><div class="image"><img src="../img/sh/ish/Farmhouse_Aesthetic.jpeg" alt="Team IMSOHUNGRY by the farmhouse"></div></div>
-<div><div class="image"><img src="../img/sh/ish/Mystery_Art_12.jpeg" alt="Team IMSOHUNGRY by some campus art"></div></div>
+<div><div class="image"><img src="sh/ish/Bird_is_the_word.jpeg" alt="Team IMSOHUNGRY at Lake Laverne"></div></div>	
+<div><div class="image"><img src="sh/ish/Bowling_for_Clues.jpeg" alt="Team IMSOHUNGRY outside the MU bowling alley"></div></div>	
+<div><div class="image"><img src="sh/ish/Farmhouse_Aesthetic.jpeg" alt="Team IMSOHUNGRY by the farmhouse"></div></div>
+<div><div class="image"><img src="sh/ish/Mystery_Art_12.jpeg" alt="Team IMSOHUNGRY by some campus art"></div></div>
 </div>
 
 <script type="text/javascript">
