@@ -7,13 +7,19 @@ css: "../css/index.css"
 
 ## Scavenger Hunt
 
-We did a scavenger hunt around campus to get to know Iowa State a bit better. 
+We did a scavenger hunt on Friday around campus to get to know Iowa State a bit better. 
 
 There were three teams:
 
 1. [Team IMSOHUNGRY](sh/ish/ishphotos.html) - Amanda, Kahlil, Macy
 2. [Team WarriorBraid](sh/wb/wbphotos.html) - Anna, Maddie, Marion
 3. [Team WeJustHadLunch](sh/wjhl/wjhlphotos.html) - Andrew, Jimmy, Francesca, Sam (the winners!)
+
+## REU Picnic
+
+On Sunday, all REUs on campus met up for a picnic with food catered by Hickory Park. We took an awesome group photo on the firetruck at Brookside Park. 
+
+![](firetruck.jpg)
 
 
 <!--- 
