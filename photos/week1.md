@@ -41,3 +41,5 @@ On Sunday, all REUs on campus met up for a picnic with food catered by Hickory P
 <div><div class="image"><img src="sh/ish/Farmhouse_Aesthetic.jpeg" alt="Team IMSOHUNGRY by the farmhouse"></div></div>
 <div><div class="image"><img src="sh/ish/Mystery_Art_12.jpeg" alt="Team IMSOHUNGRY by some campus art"></div></div>
 </div>
+-->
+
