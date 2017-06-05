@@ -1,13 +1,11 @@
 ---
 layout: page
-title: 
+title: Photos
 image_sliders:
   - slider1
   - slider2
   - slider3
 ---
-
-
 
 ## Week 1: Scavenger Hunt
 
