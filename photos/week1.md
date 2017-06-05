@@ -12,8 +12,8 @@ We did a scavenger hunt around campus to get to know Iowa State a bit better.
 There were three teams:
 
 1. [Team IMSOHUNGRY](sh/ish/ishphotos.html) - Amanda, Kahlil, Macy
-2. [Team WarriorBraid](sh/wb) - Anna, Maddie, Marion
-3. [Team WeJustHadLunch](sh/wjhl) - Andrew, Jimmy, Francesca, Sam (the winners!)
+2. [Team WarriorBraid](sh/wb/wbphotos.html) - Anna, Maddie, Marion
+3. [Team WeJustHadLunch](sh/wjhl/wjhlphotos.html) - Andrew, Jimmy, Francesca, Sam (the winners!)
 
 
 <!--- 
