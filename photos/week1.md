@@ -24,6 +24,7 @@ There were three teams:
 <div><div class="image"><img src="../img/sh/ish/Mystery_Art_12.jpeg" alt="Team IMSOHUNGRY by some campus art"></div></div>
 </div>
 
+<script>
 $('.fade').slick({
   dots: true,
   infinite: true,
@@ -31,3 +32,4 @@ $('.fade').slick({
   fade: true,
   cssEase: 'linear'
 });
+</script>
