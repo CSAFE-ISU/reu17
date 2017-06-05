@@ -15,12 +15,19 @@ There were three teams:
 2. Team WarriorBraid
 3. Team WeJustHadLunch
 
+
 <div class="slider single-item">
 					
-<div>![Team IMSOHUNGRY by Lake Laverne](../img/sh/ish/Bird_is_the_word.jpeg)	</div>	
-<div>![Team IMSOHUNGRY outside the MU bowling alley](../img/sh/ish/Bowling_for_Clues.jpeg) </div>	
-<div>![Team IMSOHUNGRY by the farmhouse](../img/sh/ish/Farmhouse_Aesthetic.jpeg) </div>
-<div>![Team IMSOHUNGRY by some campus art](../img/sh/ish/Mystery_Art_12.jpeg)	</div>
+<div><img src="../img/sh/ish/Bird_is_the_word.jpeg" alt="Team IMSOHUNGRY at Lake Laverne"></div>	
+<div><img src="../img/sh/ish/Bowling_for_Clues.jpeg" alt="Team IMSOHUNGRY outside the MU bowling alley"> </div>	
+<div><img src="../img/sh/ish/Farmhouse_Aesthetic.jpeg" alt="Team IMSOHUNGRY by the farmhouse"></div>
+<div><img src="../img/sh/ish/Mystery_Art_12.jpeg" alt="Team IMSOHUNGRY by some campus art">	</div>
 </div>
 
-$('.single-item').slick();
+<script type="text/javascript">
+    $(document).ready(function(){
+      $('.single-item').slick({
+          dots: true
+      });
+    });
+  </script>
