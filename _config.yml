@@ -25,10 +25,11 @@ description: The projects and musings of our 10 summer 2017 REU students in CSAF
 navbar-links:
   Blog: ""
   Resources:
-    - CSAFE: "http://forensicstats.org/"
-    - NIST: "https://www.nist.gov/coe"
-  Photos: "photos"  
-  
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    - GitHub Pages: "https://pages.github.com/"
+  CSAFE: "http://forensicstats.org/"
+  NIST: "https://www.nist.gov/coe"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
