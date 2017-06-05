@@ -16,7 +16,17 @@ There were three teams:
 3. Team WeJustHadLunch
 
 
-<div class="slider fade">
+<script type="text/javascript"
+	src="http://slideshow.triptracker.net/slide.js"></script>
+<script type="text/javascript">
+  var viewer = new PhotoViewer();
+  viewer.add('/sh/ish/Bird_is_the_word.jpeg');
+  viewer.add('/sh/ish/Bowling_for_Clues.jpeg');
+  viewer.add('/sh/ish/Farmhouse_Aesthetic.jpeg');
+</script>
+<a href="javascript:void(viewer.show(0))">Slideshow</a>
+
+<!--- <div class="slider fade">
 					
 <div><div class="image"><img src="sh/ish/Bird_is_the_word.jpeg" alt="Team IMSOHUNGRY at Lake Laverne"></div></div>	
 <div><div class="image"><img src="sh/ish/Bowling_for_Clues.jpeg" alt="Team IMSOHUNGRY outside the MU bowling alley"></div></div>	
@@ -35,3 +45,4 @@ There were three teams:
   });
 });
 </script>
+--> 
