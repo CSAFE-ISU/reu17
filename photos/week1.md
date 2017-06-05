@@ -18,16 +18,16 @@ There were three teams:
 
 <div class="slider single-item">
 					
-<div><img src="../img/sh/ish/Bird_is_the_word.jpeg" alt="Team IMSOHUNGRY at Lake Laverne"></div>	
-<div><img src="../img/sh/ish/Bowling_for_Clues.jpeg" alt="Team IMSOHUNGRY outside the MU bowling alley"> </div>	
-<div><img src="../img/sh/ish/Farmhouse_Aesthetic.jpeg" alt="Team IMSOHUNGRY by the farmhouse"></div>
-<div><img src="../img/sh/ish/Mystery_Art_12.jpeg" alt="Team IMSOHUNGRY by some campus art">	</div>
+<div><div class="image"><img src="../img/sh/ish/Bird_is_the_word.jpeg" alt="Team IMSOHUNGRY at Lake Laverne"></div></div>	
+<div><div class="image"><img src="../img/sh/ish/Bowling_for_Clues.jpeg" alt="Team IMSOHUNGRY outside the MU bowling alley"></div></div>	
+<div><div class="image"><img src="../img/sh/ish/Farmhouse_Aesthetic.jpeg" alt="Team IMSOHUNGRY by the farmhouse"></div>/div>
+<div><div class="image"><img src="../img/sh/ish/Mystery_Art_12.jpeg" alt="Team IMSOHUNGRY by some campus art"></div></div>
 </div>
 
-<script type="text/javascript">
-    $(document).ready(function(){
-      $('.single-item').slick({
-          dots: true
-      });
-    });
-  </script>
+$('.fade').slick({
+  dots: true,
+  infinite: true,
+  speed: 500,
+  fade: true,
+  cssEase: 'linear'
+});
