@@ -5,7 +5,7 @@ date: "2017-06-13 12:00:00 CDT"
 topic: "week2"
 layout: post
 root: ../../../
-tags: [forensics, statistics, assignments]
+tags: [forensics, statistics, assignments, week2]
 ---
  
 ## 1pm Session: Fingerprints
