@@ -6,8 +6,8 @@ css: "/css/index.css"
 
 <div class="list-filters">
   <a href="/reu17" class="list-filter">All posts</a>
-  <a href="/reu17/assignments" class="list-filter filter-selected">Assignments</a>
-    <a href="/reu17/week1" class="list-filter">June 12-16, 2017</a>
+  <a href="/reu17/assignments" class="list-filter">Assignments</a>
+    <a href="/reu17/week1" class="list-filter filter-selected">June 12-16, 2017</a>
   <a href="/reu17/week2" class="list-filter">June 19-23, 2017</a>
   <a href="/reu17/week3" class="list-filter">June 26-30, 2017</a>
   <a href="/reu17/week4" class="list-filter">July 3-7, 2017</a>
